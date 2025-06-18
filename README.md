@@ -57,7 +57,7 @@ This is a RESTful Task API built using:
 2. Install dependencies:
 
    ```bash
-   npm install && node run build
+   npm install && npm run build
    ```
 
 3. Generate Prisma client:
